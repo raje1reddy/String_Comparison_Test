@@ -2,7 +2,7 @@ package com.padmaja.stringreplace;
 import java.lang.String;
 
 
-public class EqualityMethod {
+public class StringComparison {
     // Java program to Compare two strings
 // lexicographically
 
